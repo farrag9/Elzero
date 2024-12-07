@@ -1212,7 +1212,7 @@ counter-increment: services;
 
 .pricing .container {
     display: grid;
-    grid-template-columns: repeat(auto-fill , minmax( 250px , 1fr ));
+    grid-template-columns: repeat(auto-fill , minmax( 270px , 1fr ));
     gap: 30px;
 }
 .pricing .container .box{
@@ -1426,7 +1426,7 @@ counter-increment: services;
 
 .stats .container {
     display: grid;
-    grid-template-columns: repeat( auto-fill  ,minmax(200px , 1fr));
+    grid-template-columns: repeat( auto-fill  ,minmax(210px , 1fr));
     gap: 30px;
 }
 
